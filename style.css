@@ -1,0 +1,31 @@
+/* Custom Styles */
+body {
+    font-family: 'Arial', sans-serif;
+}
+
+h2 {
+    margin-bottom: 30px;
+}
+
+.card {
+    margin-bottom: 30px;
+}
+
+.card-img-top {
+    height: 200px;
+    object-fit: cover;
+}
+
+footer {
+    margin-top: 50px;
+}
+
+#contact a {
+    text-decoration: none;
+}
+
+/* Added styles for the navbar */
+.navbar-brand {
+    font-size: 2rem;
+    font-weight: bold;
+}
